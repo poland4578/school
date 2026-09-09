@@ -1,16 +1,23 @@
-<h1 style="color:blue">오늘의 수업은 웹개발로 시작합니다</h1>
-<h1 style="color:blue">목원대학교 컴퓨터 융합학부</h1>
-<h2 style="color:pink">목원대학교 < a harf "" 컴퓨터 융합학부</h2>
-<h3><목원대학교 컴퓨텅융합학부 유튜브 채널/h3>
-  <log src = https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?utm_source=ko.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled </log>
+<h1 style="text-align:center;">오늘의 수업내용</h1>
+
+<h2 style="text-align:center;">
+    목원대학교 컴퓨터 융합학부
+</h2>
+
+<a href= text-align: center; "https://www.youtube.com/@mw_computer">
+    유튜브로 이동
+</a>
+
 <div style="
-  color:cyan;
-  background-color:black;
-  text-align:center;
-  "
-  >언어 (Language)의 분류</div>
-<vl>
-  <li>자연어: 한국어,영어,스페인어(굿굿)</li>
-  <li>형식어
-    <vl>
-      <li>프로그램언어:컴파일언어</li>
+    color: cyan;
+    background-color: black;
+    text-align: center;
+">
+    언어 (Language)의 분류
+
+    <ul>
+        <li>자연어: 한국어, 영어, 스페인어</li>
+        <li>저급언어: 기계어, 어셈블리어</li>
+        <li>프로그래밍언어: 컴파일러언어, 스크립트언어, 인터프리터 언어</li>
+    </ul>
+</div>
